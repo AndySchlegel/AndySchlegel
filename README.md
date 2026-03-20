@@ -31,10 +31,9 @@ Cloud & DevOps Engineer with a background in nearly two decades of B2B sales and
 
 ### Featured projects
 
-- [EcoKart Webshop](https://github.com/AndySchlegel/ecokart-webshop) -- Full-stack e-commerce on AWS with Terraform, EKS, and GitHub Actions
-- [Tech Blog](https://github.com/AndySchlegel/my-personal-tech-blog) -- Cloud-native blog on AWS, documenting my journey<br>
-  Live at [techblog.aws.his4irness23.de](https://techblog.aws.his4irness23.de)
-- [AGRA Dashboard](https://github.com/AndySchlegel/agra-dashboard) -- Agriculture analytics dashboard (team project)
+- [EcoKart Webshop](https://github.com/AndySchlegel/ecokart-webshop) -- Full-stack e-commerce on AWS with Terraform, EKS, and GitHub Actions -- [Live Demo](https://shop.aws.his4irness23.de)
+- [Tech Blog](https://github.com/AndySchlegel/my-personal-tech-blog) -- Cloud-native blog on AWS, documenting my journey -- [Live](https://techblog.aws.his4irness23.de)
+- [AGRA Dashboard](https://github.com/AndySchlegel/agra-dashboard) -- Agriculture analytics dashboard (team project) -- [Live Demo](https://agra.his4irness-n8n.tech)
 
 ### Connect
 
